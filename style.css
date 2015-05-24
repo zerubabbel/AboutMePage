@@ -107,13 +107,13 @@ body {
     margin: 1.625rem 0 3.125rem;
     font-weight: 300;
 }
-.devices li {
+.htmlcssprojects .devices {
     display: flex;
 }
-.htmlcssprojects .devices > li {
-    width: 49%;
+.cases .devices > li {
+    width: 33.3333333%;
 }
-.htmlcssprojects .devices h3 {
+.cases .devices h3 {
     font-weight: 400;
     font-size: 1.563rem;
     margin: 2.5rem 0px 1.875rem;
